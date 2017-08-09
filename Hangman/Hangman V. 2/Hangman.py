@@ -64,8 +64,8 @@ class Hangman():
         output_word = " ".join(self.hidden_word)
         output_letters = " ".join(self.used_letters)
         print(output_word)
-        print("\nUsed:", output_letters)
-        print("\nLives", self.lives, "\n\n")
+        print("\nUsed letters:", output_letters)
+        print("\nLives:", self.lives, "\n\n")
 
     def draw_solution(self):
         print(self.word)
