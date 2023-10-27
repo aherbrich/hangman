@@ -2,7 +2,9 @@
 Hangman
 #######
 
-Released: 08-August-2022
+
+Released: 08-August-2023
+
 
 ############
 Introduction
